@@ -1,2 +1,2 @@
 # tsforecast
-Time series forecasting for Nov 29, 2017 
+Time series forecasting for Nov 29, 2017 meetup
