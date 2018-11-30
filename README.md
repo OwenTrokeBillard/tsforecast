@@ -10,7 +10,6 @@ The sample notebook references some common libraries and offers a brief explanat
 
 Some example problems to try on:
 - Try using GDP alone in an ARIMA model using the statsmodels package. 
-  - Try adding in simple exogenous series such as the credit_impulse or lei field to see how it changes
 - Perform feature engineering on your favourite exogenous features and lagged GDP variables. Create a linear regression model such as ElasticNet or LinearSVR from the sklearn package
 - Try out the vector autoregressive package from statsmodels to account for interdependcy amongst the features
 - Have a go with LSTMs if you're feeling particularly inspired
